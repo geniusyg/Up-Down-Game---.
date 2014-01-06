@@ -60,6 +60,9 @@
                                     <segment title="1-50"/>
                                     <segment title="1-100"/>
                                 </segments>
+                                <connections>
+                                    <action selector="newGame:" destination="vXZ-lx-hvc" eventType="valueChanged" id="XhV-Vn-1bh"/>
+                                </connections>
                             </segmentedControl>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
